@@ -1,0 +1,19 @@
+{
+	"name": "ts.dateFormat",
+	"main": [
+		"dist/dateFormat.min.js",
+		"dist/dateFormat.d.ts"
+	],
+	"ignore": [
+		"**/.*",
+		"bowerLibs",
+		"gulpfile.js",
+		"gulpfiles",
+		"package.json",
+		"tsconfig.json",
+		"tslint.json",
+		"typings.json",
+		"*.sln",
+		"*.csproj"
+	]
+}
