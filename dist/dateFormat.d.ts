@@ -26,4 +26,3 @@ declare namespace variotry {
      */
     function dateFormat(date: Date, format?: string): string;
 }
-declare let vt: typeof variotry;

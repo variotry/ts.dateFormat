@@ -103,10 +103,3 @@ namespace variotry
 		return sign + ( res + val.toString() ).slice( - digit );
 	}
 }
-
-// define alias of variotry namespace.
-let vt: typeof variotry;
-if ( !vt )
-{
-	vt = variotry;
-}
