@@ -10,7 +10,7 @@
 	"types": "dist/dateFormat.d.ts",
 	"author": "vario <variotries@gmail.com>",
 	"license": "MIT",
-	"dependencies": {
+	"devDependencies": {
 		"gulp": "3.9.1",
 		"require-dir": "0.3.0",
 		"gulp-util": "3.0.7",
