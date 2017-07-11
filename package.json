@@ -6,6 +6,8 @@
 		"type": "git",
 		"url": "https://github.com/variotry/ts.dateFormat.git"
 	},
+	"main": "dist/dateFormat.min.js",
+	"types": "dist/dateFormat.d.ts",
 	"author": "vario <variotries@gmail.com>",
 	"license": "MIT",
 	"dependencies": {
