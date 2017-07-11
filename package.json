@@ -1,5 +1,5 @@
 {
-	"name": "vt_dateformat",
+	"name": "ts_dateformat",
 	"version": "0.0.1",
 	"description": "Get date string given by format.",
 	"repository": {
