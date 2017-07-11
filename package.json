@@ -8,6 +8,12 @@
 	},
 	"main": "dist/dateFormat.min.js",
 	"types": "dist/dateFormat.d.ts",
+	"files": [
+		"src",
+		"dist",
+		"LICENSE",
+		"README.md"
+	],
 	"author": "vario <variotries@gmail.com>",
 	"license": "MIT",
 	"devDependencies": {
